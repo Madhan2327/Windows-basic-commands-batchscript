@@ -1,7 +1,7 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript      
-NAME:j kirthick roshan    
-REG.NO:212223040097
+# Ex08-Windows-basic-commands-batchscript      
+## NAME : Madhan C    
+## REG.NO:212224240081
 
 # AIM:
 To execute Windows basic commands and batch scripting
